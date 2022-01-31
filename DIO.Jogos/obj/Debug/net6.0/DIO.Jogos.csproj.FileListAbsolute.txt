@@ -1,0 +1,12 @@
+D:\GIT-GITHUB\Dio\Decola-Tech\C#\DIO.Jogos\obj\Debug\net6.0\DIO.Jogos.csproj.AssemblyReference.cache
+D:\GIT-GITHUB\Dio\Decola-Tech\C#\DIO.Jogos\obj\Debug\net6.0\DIO.Jogos.GeneratedMSBuildEditorConfig.editorconfig
+D:\GIT-GITHUB\Dio\Decola-Tech\C#\DIO.Jogos\obj\Debug\net6.0\DIO.Jogos.AssemblyInfoInputs.cache
+D:\GIT-GITHUB\Dio\Decola-Tech\C#\DIO.Jogos\obj\Debug\net6.0\DIO.Jogos.AssemblyInfo.cs
+D:\GIT-GITHUB\Dio\Decola-Tech\C#\DIO.Jogos\obj\Debug\net6.0\DIO.Jogos.csproj.CoreCompileInputs.cache
+D:\GIT-GITHUB\Dio\Decola-Tech\C#\DIO.Jogos\bin\Debug\net6.0\DIO.Jogos.deps.json
+D:\GIT-GITHUB\Dio\Decola-Tech\C#\DIO.Jogos\bin\Debug\net6.0\DIO.Jogos.dll
+D:\GIT-GITHUB\Dio\Decola-Tech\C#\DIO.Jogos\bin\Debug\net6.0\ref\DIO.Jogos.dll
+D:\GIT-GITHUB\Dio\Decola-Tech\C#\DIO.Jogos\bin\Debug\net6.0\DIO.Jogos.pdb
+D:\GIT-GITHUB\Dio\Decola-Tech\C#\DIO.Jogos\obj\Debug\net6.0\DIO.Jogos.dll
+D:\GIT-GITHUB\Dio\Decola-Tech\C#\DIO.Jogos\obj\Debug\net6.0\ref\DIO.Jogos.dll
+D:\GIT-GITHUB\Dio\Decola-Tech\C#\DIO.Jogos\obj\Debug\net6.0\DIO.Jogos.pdb

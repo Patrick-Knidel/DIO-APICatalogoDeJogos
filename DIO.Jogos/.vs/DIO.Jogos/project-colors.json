@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5d00f123-ce7a-473b-a175-8cc6a9c0235b": {
+      "ProjectGuid": "5d00f123-ce7a-473b-a175-8cc6a9c0235b",
+      "DisplayName": "Dio.Jogos.Console",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Arquivos Diversos",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}
