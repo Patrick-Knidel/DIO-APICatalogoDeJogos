@@ -1,4 +1,4 @@
-APICatalogoDeJogos
+# APICatalogoDeJogos
 
 Uma API construida em .Net 5 desenvolvida para ser um catálogo de jogos.
 
